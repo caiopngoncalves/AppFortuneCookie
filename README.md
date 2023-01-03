@@ -1,8 +1,8 @@
 # AppFortuneCookie
-# a simulation of a fortune cookie using react-native
+a simulation of a fortune cookie using react-native
 
-# commands to run:
+# Commands to run:
 
-#yarn
+yarn
 
-#yarn android
+yarn android
